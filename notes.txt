@@ -1,0 +1,8 @@
+user mysql
+DB: portfoliodb
+U: portfolio@localhost
+P: admin
+
+user pimcore
+U: portfolio
+P: admin
